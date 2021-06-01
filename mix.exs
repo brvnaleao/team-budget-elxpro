@@ -49,10 +49,6 @@ defmodule TeamBudget.MixProject do
       {:absinthe_plug, "~> 1.5", override: true},
       {:absinthe_phoenix, "~> 2.0"},
       {:absinthe_error_payload, "~> 1.1"}
-
-
-
-
     ]
   end
 
